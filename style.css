@@ -201,6 +201,10 @@ header {
     margin-top: 0;
   }
 
+  .text-nokia {
+    width: 100%;
+  }
+
   .text-nokia img {
     width: 85%;
     margin: 30px 0;
